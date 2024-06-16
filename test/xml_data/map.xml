@@ -1,0 +1,16 @@
+<serialization>
+    <int_float_map>
+        <pair>
+            <key val="1"/>
+            <value val="1.1"/>
+        </pair>
+        <pair>
+            <key val="2"/>
+            <value val="2.2"/>
+        </pair>
+        <pair>
+            <key val="3"/>
+            <value val="3.3"/>
+        </pair>
+    </int_float_map>
+</serialization>
